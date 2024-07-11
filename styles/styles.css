@@ -9,12 +9,9 @@ body{
 }
 #hero{
 background-image: url(../assets/Hero-bg.png);
-width: 1400px;
-height: 652px;
-left: 0;
-right: 0;
-top: 131px;
-bottom: 4462px;
+width: 1300px;
+height: 500px;
+
 }
 .header-content{
   display: flex;
@@ -50,7 +47,6 @@ line-height: 23px;
 text-align: center;
 padding: 21px 24px 21px 24px;
 }
-
 .inspiration{
   display: flex;
 flex-direction: column;
